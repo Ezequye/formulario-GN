@@ -38,13 +38,7 @@
 
     }
 
-
-
-
 ?>
-
-
-
 
 <!DOCTYPE html>
 <html lang="pt">
